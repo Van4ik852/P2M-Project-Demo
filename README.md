@@ -24,6 +24,10 @@ P2M unites thousands of GPUs into a massive pool for mining altcoins (Monero, ET
 
 ## Team
 - Ivan  - Visionary (@Ivan46Gostev])
+- https://x.com/Ivan46Gostev
 - AI Assistant 
 
 Join us to build the future of gaming and Web3!
+## OpenLedger Integration
+GameForge is nominated for OpenLedger’s Mint Your Model Madness! Built on Mistral AI, it powers Web3 gaming and computing. Join us: discord.gg/83y2xFtHuB
+P2M unites thousands of GPUs into a massive pool for mining altcoins (Monero, ETC) and computing tasks (rendering, AI). GameForge, our AI built on Mistral AI, optimizes GPU usage (20%-100%) and picks the most profitable tasks in real-time.
